@@ -66,7 +66,7 @@ def delete_user():
 def main():
     choice = '0'
     while choice == '0':
-        print("****Menu Usuarios Administrativos****\n Elija 1 Opcion")
+        print("****Menu Usuarios Administrativos****\n Seleccione la Accion que desea realizar")
         print("1. Crear usuario")
         print("2. Editar Usuario")
         print("3. Eliminar Usuario")
