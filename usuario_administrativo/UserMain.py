@@ -83,7 +83,7 @@ def main():
 
         
         if choice == "5":
-            print("Go to another menu")
+            print("Opcion Pendiente")
             second_menu()
         elif choice == "4":
             print_user_list()
