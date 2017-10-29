@@ -51,6 +51,7 @@ def edit_user():
         else:
             print("No se ha realizado ningun cambio al usuario.\n ")
 
+
 def delete_user():
     user = input("Ingrese el usuario que desea eliminar: ")
     if u.check_if_user_exists(user) == "True":
@@ -60,7 +61,6 @@ def delete_user():
             u.delete_user(user)
         else:
             print("No se ha ejecutado ningun cambio al usuario "+user+" \n")
-
 
 
 def main():
@@ -112,10 +112,10 @@ def main():
             print("\nValor ingresado no corresponde a ninguna opcion, por favor intentelo nuevamente\n")
             main()
             
-        
 
 def second_menu():
     print("This is the second menu")
+
 
 main()
 
