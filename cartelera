@@ -1,0 +1,5 @@
+'Complejo' = {'Nombre':['Tierramall', 'Multiplazo del Norte','Multiplazo del Sur'], 'País':'Costa Rica', 'Ciudad':['Cuatro Ríos','Los Yoses','Santa Ana'],'Dirección':['Centro Comercial Tierramall','Centro Comercial Multiplazo del Norte','Centro Comercial Multiplazo del Sur']}
+#en el siguiente diccionario falta ver cómo se integra la lista de Complejos dentro de la opción de Salas
+'Salas':{'Nombre':['1','2','3','4'], 'Complejo de Cine':'complejo'{},'Capacidad total':[100,100,110,110], 'Capacidad disponible':[100,100,110,110]}
+
+'Cartelera':{'Nombre':['Minions','Dracula','Forest Gump','Saw'],'Duración':[90,110,140,120],'Restricciones':['G','PG','PG','R'], 'Descripción':['Película animada de niños sobre unas criaturas que buscan complacer a su amo','Trata de un Dracula que busca sobrevivir buscando sangre','Trata de un personaje actuado por Tom Hanks','Película de terror de una persona atrapada']}
